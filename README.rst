@@ -1,3 +1,6 @@
+This is a fork of eerota/LibreSignage and should not be used unless you know what you're doing
+----------------------------------------------------------------------------------------------
+
 .. image:: http://etal.mbnet.fi/libresignage/logo/libresignage_text_466x100.png
 
 A free and open source digital signage solution.
